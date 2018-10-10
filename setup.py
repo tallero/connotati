@@ -5,13 +5,13 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="connotati",
-    version="0.1.0.1",
+    version="0.1.0.2",
     author="Pellegrino Prevete",
     author_email="pellegrinoprevete@gmail.com",
     description="Start gtk apps with given theme",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://gitlab.com/tallero/connotati",
+    url="https://github.com/tallero/connotati",
     packages=setuptools.find_packages(),
     entry_points = {
         'console_scripts': ['connotati = connotati:main']
