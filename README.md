@@ -2,7 +2,7 @@
 
 [![License: GPL v3+](https://img.shields.io/badge/license-GPL%20v3%2B-blue.svg)](http://www.gnu.org/licenses/gpl-3.0)
 
-![an example run](screenshots/connotati-in-action.gif)
+![an example run](https://raw.githubusercontent.com/tallero/connotati/master/screenshots/connotati-in-action.gif)
 
 *Connotati* (Italian for *salient characteristics and markings*) is a small stupid `python 3.x` script for GNU/Linux or other POSIX systems supported by GTK+ (and supported by `xdotool` and `xprop` for windows pattern matching feature) to start GTK+ applications with given theme and variant.
 
