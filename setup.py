@@ -5,10 +5,10 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="connotati",
-    version="0.1",
+    version="0.1.0.1",
     author="Pellegrino Prevete",
     author_email="pellegrinoprevete@gmail.com",
-    description="Start gtk apps with dark theme",
+    description="Start gtk apps with given theme",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://gitlab.com/tallero/connotati",
